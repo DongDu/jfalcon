@@ -30,8 +30,8 @@ namespace batchFileProcessor
 			}
 
 			FileAccessLogic accessor = new FileAccessLogic();
-			accessor.OnNotify += testNotify;
-			accessor.OnProcess += findTotalFilesLength;
+			accessor.OnNotify -= testNotify;
+			accessor.OnProcess -= findTotalFilesLength;
 
 			accessor.Recursive = true;
 			accessor.Execute(args[0]);

@@ -7,3 +7,6 @@ D:\projects\batchprocessor\batchfileprocessor\batchFileProcessor\obj\x64\Release
 D:\batchprocessor\batchfileprocessor\batchFileProcessor\bin\x64\Release\batchFileProcessor.exe.config
 D:\batchprocessor\batchfileprocessor\batchFileProcessor\obj\x64\Release\batchFileProcessor.exe
 D:\batchprocessor\batchfileprocessor\batchFileProcessor\obj\x64\Release\batchFileProcessor.pdb
+C:\Users\354399\Desktop\New folder\trunk\batchFileProcessor\bin\x64\Release\batchFileProcessor.exe.config
+C:\Users\354399\Desktop\New folder\trunk\batchFileProcessor\obj\x64\Release\batchFileProcessor.exe
+C:\Users\354399\Desktop\New folder\trunk\batchFileProcessor\obj\x64\Release\batchFileProcessor.pdb
